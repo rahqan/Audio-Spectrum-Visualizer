@@ -1,4 +1,10 @@
 
+
+<img width="425" alt="Screenshot 2024-11-05 at 2 36 03 PM" src="https://github.com/user-attachments/assets/426d20d7-ffd8-47ba-a72e-116209222148">
+
+
+
+
 # Audio Spectrum Visualizer
 
 This project provides a real-time audio spectrum visualizer that captures audio data from a microphone, processes it to obtain frequency and amplitude information, and displays it using a line chart in a web interface. The application is built with a Python WebSocket server for audio analysis and a React frontend with Chart.js for visualization.
